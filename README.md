@@ -1,1 +1,18 @@
 # Grocery-Sales-and-Outlet-Performance-
+# Overview:-
+This project involves the creation of a comprehensive Power BI dashboard to analyze the sales performance and outlet metrics for Blinkit, a grocery delivery service. The dashboard provides key insights into sales trends, outlet performance, and customer behavior, enabling stakeholders to make informed decisions.
+
+# Features
+Sales Analysis: Detailed breakdown of sales across different outlets, time periods, and product categories.
+Outlet Performance: Performance metrics for individual outlets, including sales, profitability, and customer traffic.
+Visual Insights: Interactive visualizations that allow users to filter and drill down into specific data points.
+Trend Analysis: Identification of sales trends over time, highlighting peak sales periods and slow-moving products.
+Customer Insights: Analysis of customer purchase behavior and preferences.
+
+# Data Source
+The data used in this project is obtained from Blinkit's grocery sales and outlet performance dataset, which includes:
+
+Sales Data: Information on sales transactions, including product, quantity, price, and date of purchase.
+Outlet Data: Details on outlet locations, sizes, and operational hours.
+Customer Data: Demographic and purchase behavior data for Blinkit customers.
+The data is stored in an Excel file named BlinkIT Grocery Data.xlsx.
