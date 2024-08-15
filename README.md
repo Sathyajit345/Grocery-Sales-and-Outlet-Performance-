@@ -16,9 +16,9 @@ Customer Insights: Analysis of customer purchase behavior and preferences.
 # Data Source
 The data used in this project is obtained from Blinkit's grocery sales and outlet performance dataset, which includes:
 
-Sales Data: Information on sales transactions, including product, quantity, price, and date of purchase.
+Sales Data: Information on sales transactions, including product, quantity and price.
 
-Outlet Data: Details on outlet locations, sizes, and operational hours.
+Outlet Data: Details on outlet locations and sizes.
 
 Customer Data: Demographic and purchase behavior data for Blinkit customers.
 
