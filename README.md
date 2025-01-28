@@ -22,4 +22,4 @@ Outlet Data: Details on outlet locations and sizes.
 
 Customer Data: Demographic and purchase behavior data for customers.
 
-The data is stored in an Excel file named Grocery sales.xlsx.
+The data is stored in an Excel file named Grocery Data.xlsx.
